@@ -59,7 +59,7 @@ The dataset comprises multiple tables in the database. Here are the details of t
 You can clone this repository to your local machine and run the Jupyter Notebook to perform the SQL-based EDA. Ensure you have a MySQL server set up with the necessary database containing the required tables.
 
 ```bash
-git clone https://github.com/HloHarshit/Swiggy-SQL-EDA.git
+git clone https://github.com/hiharshit/Swiggy-SQL-EDA.git
 cd Swiggy-SQL-EDA
 jupyter notebook swiggy.ipynb
 ```
